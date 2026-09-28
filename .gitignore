@@ -25,19 +25,11 @@ build/
 *.jar
 *.war
 
-# Go
-bin/
+# Go / .NET bin (keep CLI binary)
+bin/*
+!bin/backspec.js
 *.exe
 *.test
-
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-
-# C# / .NET
-bin/
 obj/
 
 # Rust

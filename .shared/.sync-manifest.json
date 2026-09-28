@@ -1,44 +1,9 @@
 {
-  "api-design.md": {
-    "hash": "d6bb6e085dba504a2748793d0a28b4ae81a6ce6e04f9e46eba2439bcaf48c4ef",
-    "title": "Microservice API Design Standard",
-    "scope": "backend",
-    "severity": "must"
-  },
-  "async-integration.md": {
-    "hash": "9150888b4feed956aee7ec881c83bf1e30c6a158ad9282f10621a4e7d8e1f25e",
-    "title": "Async Integration & Messaging Rules",
-    "scope": "messaging",
-    "severity": "must"
-  },
-  "backend-feature.md": {
-    "hash": "466b60569f367e8809d8acd4976046d655f73cd6d58208f32a413a407589fe01",
-    "title": "Backend Feature & Domain Rules",
-    "scope": "backend",
-    "severity": "must"
-  },
-  "db-migration.md": {
-    "hash": "5e730f4b3742563345220f120ff5dd6512fb170c4e6ca620a441896123714077",
-    "title": "Database Migration Rules",
-    "scope": "database",
-    "severity": "must"
-  },
-  "microservice-resilience.md": {
-    "hash": "9d087d1f0bf893cd0a4aa5806200b60d0aa9e7459a3903db02a3cbeda5fe38ea",
-    "title": "Microservice Resilience & Fault Tolerance",
-    "scope": "universal",
-    "severity": "must"
-  },
-  "security.md": {
-    "hash": "79040227585bc939451c03ccd08126c7c11caf288bbd4187dc29c6a58d0e7b01",
-    "title": "Security & Authentication Rules",
-    "scope": "security",
-    "severity": "must"
-  },
-  "testing.md": {
-    "hash": "a6c2342ce62038d033d8978424904188ff57682933f12a52f214a469ed76dc46",
-    "title": "Backend Testing Rules",
-    "scope": "testing",
-    "severity": "must"
-  }
+  "02-codestyle/rules/api-design.md": "d6bb6e085dba504a2748793d0a28b4ae81a6ce6e04f9e46eba2439bcaf48c4ef",
+  "02-codestyle/rules/async-integration.md": "9150888b4feed956aee7ec881c83bf1e30c6a158ad9282f10621a4e7d8e1f25e",
+  "02-codestyle/rules/backend-feature.md": "466b60569f367e8809d8acd4976046d655f73cd6d58208f32a413a407589fe01",
+  "02-codestyle/rules/db-migration.md": "5e730f4b3742563345220f120ff5dd6512fb170c4e6ca620a441896123714077",
+  "02-codestyle/rules/microservice-resilience.md": "9d087d1f0bf893cd0a4aa5806200b60d0aa9e7459a3903db02a3cbeda5fe38ea",
+  "02-codestyle/rules/security.md": "79040227585bc939451c03ccd08126c7c11caf288bbd4187dc29c6a58d0e7b01",
+  "02-codestyle/rules/testing.md": "a6c2342ce62038d033d8978424904188ff57682933f12a52f214a469ed76dc46"
 }

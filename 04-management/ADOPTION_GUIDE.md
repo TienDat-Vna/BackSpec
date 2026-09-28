@@ -1,19 +1,33 @@
-# 📖 Hướng Dẫn Áp Dụng Bộ Khung 4 Phân Tầng
+# 📖 Hướng Dẫn Áp Dụng BackSpec SDD Cho Microservice
 
-Tài liệu hướng dẫn áp dụng bộ khung Backend Microservice 4 phân tầng (`01-spec-management`, `02-codestyle`, `03-hooks`, `04-management`) vào dự án thực tế.
+Tài liệu hướng dẫn tiếp nhận và áp dụng bộ công cụ **BackSpec (`backspec`)** vào dự án Backend Microservice.
 
-## 🚀 Các Bước Triển Khai Nhanh:
+## 🚀 Cách 1: Áp dụng tự động bằng BackSpec CLI (Khuyến nghị)
 ```bash
-# 1. Cài đặt tooling
+# Trong thư mục dự án microservice của bạn:
+npx backspec init
+
+# Hoặc áp dụng tự động cho service có sẵn ở đường dẫn khác:
+npx backspec adopt ../my-existing-service
+
+# Kiểm tra sức khỏe toàn diện sau khi khởi tạo:
+npx backspec check
+```
+
+## 📦 Cách 2: Vận hành qua npm scripts
+```bash
+# 1. Cài đặt dependencies
 npm install
 
-# 2. Đồng bộ rules và skills
-npm run sync-rules
-npm run sync-skills
+# 2. Khởi tạo / chẩn đoán hệ thống
+npm run check
 
-# 3. Kiểm tra sức khỏe toàn diện
-npm run doctor
+# 3. Tạo spec cho tính năng mới
+npm run spec feat-create-order
 
-# 4. Xác thực tính toàn vẹn
+# 4. Đồng bộ rules & skills
+npm run sync
+
+# 5. Kiểm định tính toàn vẹn 4 phân tầng
 npm run validate
 ```

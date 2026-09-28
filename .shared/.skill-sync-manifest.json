@@ -74,6 +74,141 @@
     "category": "01-spec-management",
     "checksum": "5158f1be5592d301d40d80aa0e68e951ad30e6a6822d31131dd6b61b670f12ff"
   },
+  ".claude/skills/speckit-analyze/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-analyze/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "274ad04560f6f32e949e5d941b682729aee405e8089fac7cab83a204a1385c44"
+  },
+  ".agents/skills/speckit-analyze/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-analyze/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "274ad04560f6f32e949e5d941b682729aee405e8089fac7cab83a204a1385c44"
+  },
+  ".shared/skills/speckit-analyze/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-analyze/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "274ad04560f6f32e949e5d941b682729aee405e8089fac7cab83a204a1385c44"
+  },
+  ".claude/skills/speckit-checklist/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-checklist/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "92574910f999e4626a6414a3fbe28aa4cdd8ed9e0d01e40278a004898ff4e967"
+  },
+  ".agents/skills/speckit-checklist/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-checklist/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "92574910f999e4626a6414a3fbe28aa4cdd8ed9e0d01e40278a004898ff4e967"
+  },
+  ".shared/skills/speckit-checklist/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-checklist/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "92574910f999e4626a6414a3fbe28aa4cdd8ed9e0d01e40278a004898ff4e967"
+  },
+  ".claude/skills/speckit-clarify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-clarify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "bc71ab9b0c57d6c3f5bbae4811ffc137b2649b446f43284f66e135a48bca79b7"
+  },
+  ".agents/skills/speckit-clarify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-clarify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "bc71ab9b0c57d6c3f5bbae4811ffc137b2649b446f43284f66e135a48bca79b7"
+  },
+  ".shared/skills/speckit-clarify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-clarify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "bc71ab9b0c57d6c3f5bbae4811ffc137b2649b446f43284f66e135a48bca79b7"
+  },
+  ".claude/skills/speckit-constitution/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-constitution/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "da6864f9b1077527b137569dadcd9aef1dfa71d36fd0927ee9e0b453f66bdab4"
+  },
+  ".agents/skills/speckit-constitution/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-constitution/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "da6864f9b1077527b137569dadcd9aef1dfa71d36fd0927ee9e0b453f66bdab4"
+  },
+  ".shared/skills/speckit-constitution/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-constitution/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "da6864f9b1077527b137569dadcd9aef1dfa71d36fd0927ee9e0b453f66bdab4"
+  },
+  ".claude/skills/speckit-help/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-help/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "23351e64ee80cdddd8f9fae1acb0742c0262645e36179a8607c2d59b8a0b2ea7"
+  },
+  ".agents/skills/speckit-help/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-help/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "23351e64ee80cdddd8f9fae1acb0742c0262645e36179a8607c2d59b8a0b2ea7"
+  },
+  ".shared/skills/speckit-help/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-help/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "23351e64ee80cdddd8f9fae1acb0742c0262645e36179a8607c2d59b8a0b2ea7"
+  },
+  ".claude/skills/speckit-implement/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-implement/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "55c4e3a0178b453f3fd3ee0a2ca0a52c73b0780cd4e8e0f90494ed4f14abb6b1"
+  },
+  ".agents/skills/speckit-implement/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-implement/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "55c4e3a0178b453f3fd3ee0a2ca0a52c73b0780cd4e8e0f90494ed4f14abb6b1"
+  },
+  ".shared/skills/speckit-implement/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-implement/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "55c4e3a0178b453f3fd3ee0a2ca0a52c73b0780cd4e8e0f90494ed4f14abb6b1"
+  },
+  ".claude/skills/speckit-plan/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-plan/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "068a4bc4e15c18ab503673c857caf631c821801d96b98de769ea43fa48ce5756"
+  },
+  ".agents/skills/speckit-plan/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-plan/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "068a4bc4e15c18ab503673c857caf631c821801d96b98de769ea43fa48ce5756"
+  },
+  ".shared/skills/speckit-plan/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-plan/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "068a4bc4e15c18ab503673c857caf631c821801d96b98de769ea43fa48ce5756"
+  },
+  ".claude/skills/speckit-specify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-specify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "6a351b5dff251b151b19723a1caf0775c0670acf41759d9befca9a3cbc9b220b"
+  },
+  ".agents/skills/speckit-specify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-specify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "6a351b5dff251b151b19723a1caf0775c0670acf41759d9befca9a3cbc9b220b"
+  },
+  ".shared/skills/speckit-specify/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-specify/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "6a351b5dff251b151b19723a1caf0775c0670acf41759d9befca9a3cbc9b220b"
+  },
+  ".claude/skills/speckit-tasks/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-tasks/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "a298037fc1927197be2a26bad82f9143e1763b88b13a67989ecaaca366595308"
+  },
+  ".agents/skills/speckit-tasks/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-tasks/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "a298037fc1927197be2a26bad82f9143e1763b88b13a67989ecaaca366595308"
+  },
+  ".shared/skills/speckit-tasks/SKILL.md": {
+    "source": "01-spec-management/skills/speckit-tasks/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "a298037fc1927197be2a26bad82f9143e1763b88b13a67989ecaaca366595308"
+  },
   ".claude/skills/system-dna-manager/SKILL.md": {
     "source": "01-spec-management/skills/system-dna-manager/SKILL.md",
     "category": "01-spec-management",

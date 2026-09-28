@@ -78,7 +78,7 @@ Entity ──mapping──► DTO (Request/Response) ──► API / Kafka
 
 
 <!-- BEGIN GENERATED RULES — DO NOT EDIT BELOW THIS LINE -->
-<!-- GENERATED FROM .shared/rules/api-design.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/api-design.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Microservice API Design Standard
@@ -86,6 +86,7 @@ scope: backend
 severity: must
 tags: [api, rest, grpc, controller, dto]
 ---
+
 
 # Rule — API Design Standard
 
@@ -107,10 +108,9 @@ Khi thêm hoặc chỉnh sửa endpoint API:
    - `500 Internal Server Error`: Lỗi hệ thống ngoài ý muốn
 7. **Idempotency Key**: Bắt buộc hỗ trợ header `Idempotency-Key` cho toàn bộ endpoint tạo/thanh toán/thay đổi trạng thái quan trọng.
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/async-integration.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/async-integration.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Async Integration & Messaging Rules
@@ -118,6 +118,7 @@ scope: messaging
 severity: must
 tags: [messaging, kafka, rabbitmq, outbox, event]
 ---
+
 
 # Rule — Async Integration & Event Messaging
 
@@ -128,10 +129,9 @@ Khi gửi/nhận thông điệp qua Event Broker (Kafka/RabbitMQ) hoặc tác v�
 3. **Dead Letter Queue (DLQ)**: Consumer gặp lỗi chỉ được retry tối đa 3 lần với exponential backoff, sau đó đẩy sang DLQ topic. Không throw exception vô hạn làm nghẽn partition.
 4. **CloudEvents Standard**: Cấu trúc payload của event phải tuân thủ chuẩn CloudEvents (id, source, type, time, datacontenttype, data).
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/backend-feature.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/backend-feature.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Backend Feature & Domain Rules
@@ -139,6 +139,7 @@ scope: backend
 severity: must
 tags: [backend, service, domain, transaction, soft-delete]
 ---
+
 
 # Rule — Backend Feature Implementation
 
@@ -153,10 +154,9 @@ Khi phát triển hoặc chỉnh sửa code backend:
    - File/Class <= 300 dòng
    - Không chứa TODO comment khi merge vào main.
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/db-migration.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/db-migration.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Database Migration Rules
@@ -164,6 +164,7 @@ scope: database
 severity: must
 tags: [database, migration, ddl, sql]
 ---
+
 
 # Rule — Database Migration
 
@@ -175,10 +176,9 @@ Khi tạo migration trong `db/migration/**` hoặc `migrations/**`:
 4. **Timezone chuẩn**: Luôn lưu trữ thời gian ở chuẩn UTC / `TIMESTAMP WITH TIME ZONE`.
 5. **Non-breaking DDL**: Khi thêm cột mới vào bảng đang chạy production, cột phải là `NULLABLE` hoặc có giá trị `DEFAULT` hợp lệ.
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/microservice-resilience.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/microservice-resilience.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Microservice Resilience & Fault Tolerance
@@ -186,6 +186,7 @@ scope: universal
 severity: must
 tags: [resilience, circuit-breaker, timeout, retry, fallback]
 ---
+
 
 # Rule — Microservice Resilience
 
@@ -196,10 +197,9 @@ Khi thực hiện lời gọi mạng (HTTP/gRPC) sang microservice khác hoặc 
 3. **Graceful Degradation (Fallback)**: Khi service ngoài bị sập, luôn có fallback trả về dữ liệu cache hoặc phản hồi nhẹ nhàng, không để crash ứng dụng.
 4. **Correlation / Trace ID**: Luôn truyền `X-Correlation-ID` hoặc `traceparent` (W3C Trace Context) qua mọi lời gọi mạng để trace log xuyên suốt hệ thống.
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/security.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/security.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Security & Authentication Rules
@@ -207,6 +207,7 @@ scope: security
 severity: must
 tags: [security, auth, jwt, injection, secrets]
 ---
+
 
 # Rule — Security & Authentication
 
@@ -218,10 +219,9 @@ Khi viết code liên quan đến xác thực, phân quyền hoặc bảo mật 
 4. **Phân quyền Đa cấp**: Xác thực cả Token Role, Tenant ID, và quyền sở hữu tài nguyên (Resource Ownership).
 5. **CORS chặt chẽ**: Không bao giờ cấu hình `allowed_origins = ["*"]` trong môi trường production.
 
-
 ---
 
-<!-- GENERATED FROM .shared/rules/testing.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM 02-codestyle/rules/testing.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Backend Testing Rules
@@ -229,6 +229,7 @@ scope: testing
 severity: must
 tags: [testing, unit-test, integration-test, coverage]
 ---
+
 
 # Rule — Testing Standard
 
@@ -239,5 +240,7 @@ Khi viết unit test hoặc integration test cho backend microservice:
 3. **Test độc lập**: Mỗi test case phải tự cô lập dữ liệu (không phụ thuộc vào thứ tự chạy hoặc dữ liệu của test khác).
 4. **Happy Path & Error Path**: Mọi endpoint/service method mới bắt buộc phải test cả luồng thành công và toàn bộ các trường hợp throw exception / validation error.
 5. **Mock External Calls**: Unit test phải mock toàn bộ HTTP Client / Kafka Producer gọi ra bên ngoài.
+
+---
 
 <!-- END GENERATED RULES -->
