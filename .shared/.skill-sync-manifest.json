@@ -1,0 +1,452 @@
+{
+  ".claude/skills/analyze-feature/SKILL.md": {
+    "source": "01-spec-management/skills/analyze-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "83ae729801e7fd75d4a2ea13a18e3a725ca821973264951265dd465d31fd25a8"
+  },
+  ".agents/skills/analyze-feature/SKILL.md": {
+    "source": "01-spec-management/skills/analyze-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "83ae729801e7fd75d4a2ea13a18e3a725ca821973264951265dd465d31fd25a8"
+  },
+  ".shared/skills/analyze-feature/SKILL.md": {
+    "source": "01-spec-management/skills/analyze-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "83ae729801e7fd75d4a2ea13a18e3a725ca821973264951265dd465d31fd25a8"
+  },
+  ".claude/skills/implement-feature/SKILL.md": {
+    "source": "01-spec-management/skills/implement-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "b16db85300b635a07aaafa19d1740f38ea38a4096f941b4f8b8fae22effc512a"
+  },
+  ".agents/skills/implement-feature/SKILL.md": {
+    "source": "01-spec-management/skills/implement-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "b16db85300b635a07aaafa19d1740f38ea38a4096f941b4f8b8fae22effc512a"
+  },
+  ".shared/skills/implement-feature/SKILL.md": {
+    "source": "01-spec-management/skills/implement-feature/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "b16db85300b635a07aaafa19d1740f38ea38a4096f941b4f8b8fae22effc512a"
+  },
+  ".claude/skills/knowledge-graph/SKILL.md": {
+    "source": "01-spec-management/skills/knowledge-graph/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "11dce1fb1e81def7d34d6f432a7188274a3edbd282deddfb9e4fcb5b3035071b"
+  },
+  ".agents/skills/knowledge-graph/SKILL.md": {
+    "source": "01-spec-management/skills/knowledge-graph/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "11dce1fb1e81def7d34d6f432a7188274a3edbd282deddfb9e4fcb5b3035071b"
+  },
+  ".shared/skills/knowledge-graph/SKILL.md": {
+    "source": "01-spec-management/skills/knowledge-graph/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "11dce1fb1e81def7d34d6f432a7188274a3edbd282deddfb9e4fcb5b3035071b"
+  },
+  ".claude/skills/release-notes/SKILL.md": {
+    "source": "01-spec-management/skills/release-notes/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "207134826eea95c19d20a3289b5d2c235ca0b8904061fd68280d73ec06d4f894"
+  },
+  ".agents/skills/release-notes/SKILL.md": {
+    "source": "01-spec-management/skills/release-notes/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "207134826eea95c19d20a3289b5d2c235ca0b8904061fd68280d73ec06d4f894"
+  },
+  ".shared/skills/release-notes/SKILL.md": {
+    "source": "01-spec-management/skills/release-notes/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "207134826eea95c19d20a3289b5d2c235ca0b8904061fd68280d73ec06d4f894"
+  },
+  ".claude/skills/spec-writer/SKILL.md": {
+    "source": "01-spec-management/skills/spec-writer/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "5158f1be5592d301d40d80aa0e68e951ad30e6a6822d31131dd6b61b670f12ff"
+  },
+  ".agents/skills/spec-writer/SKILL.md": {
+    "source": "01-spec-management/skills/spec-writer/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "5158f1be5592d301d40d80aa0e68e951ad30e6a6822d31131dd6b61b670f12ff"
+  },
+  ".shared/skills/spec-writer/SKILL.md": {
+    "source": "01-spec-management/skills/spec-writer/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "5158f1be5592d301d40d80aa0e68e951ad30e6a6822d31131dd6b61b670f12ff"
+  },
+  ".claude/skills/system-dna-manager/SKILL.md": {
+    "source": "01-spec-management/skills/system-dna-manager/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "aad7aeb6c2db8b5db48c2544b7b832c3281372f490bada3e6b10f41df97fe560"
+  },
+  ".agents/skills/system-dna-manager/SKILL.md": {
+    "source": "01-spec-management/skills/system-dna-manager/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "aad7aeb6c2db8b5db48c2544b7b832c3281372f490bada3e6b10f41df97fe560"
+  },
+  ".shared/skills/system-dna-manager/SKILL.md": {
+    "source": "01-spec-management/skills/system-dna-manager/SKILL.md",
+    "category": "01-spec-management",
+    "checksum": "aad7aeb6c2db8b5db48c2544b7b832c3281372f490bada3e6b10f41df97fe560"
+  },
+  ".claude/skills/backend-api-design-flow/SKILL.md": {
+    "source": "02-codestyle/skills/backend-api-design-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ed741fca0f49894ca1a55a244f90a2d2093dffea8a667086437559f6a43ae3a1"
+  },
+  ".agents/skills/backend-api-design-flow/SKILL.md": {
+    "source": "02-codestyle/skills/backend-api-design-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ed741fca0f49894ca1a55a244f90a2d2093dffea8a667086437559f6a43ae3a1"
+  },
+  ".shared/skills/backend-api-design-flow/SKILL.md": {
+    "source": "02-codestyle/skills/backend-api-design-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ed741fca0f49894ca1a55a244f90a2d2093dffea8a667086437559f6a43ae3a1"
+  },
+  ".claude/skills/clean-code-naming-conventions/SKILL.md": {
+    "source": "02-codestyle/skills/clean-code-naming-conventions/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "17d1faaf89d8e4b1a9286555fb0db86cdf46c044313a71c2cc4cf91f0a152712"
+  },
+  ".agents/skills/clean-code-naming-conventions/SKILL.md": {
+    "source": "02-codestyle/skills/clean-code-naming-conventions/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "17d1faaf89d8e4b1a9286555fb0db86cdf46c044313a71c2cc4cf91f0a152712"
+  },
+  ".shared/skills/clean-code-naming-conventions/SKILL.md": {
+    "source": "02-codestyle/skills/clean-code-naming-conventions/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "17d1faaf89d8e4b1a9286555fb0db86cdf46c044313a71c2cc4cf91f0a152712"
+  },
+  ".claude/skills/database-transaction-management/SKILL.md": {
+    "source": "02-codestyle/skills/database-transaction-management/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "e60cd84a3242092f6756c3416ed62e0991d47c97668fa7536067b21885c0b843"
+  },
+  ".agents/skills/database-transaction-management/SKILL.md": {
+    "source": "02-codestyle/skills/database-transaction-management/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "e60cd84a3242092f6756c3416ed62e0991d47c97668fa7536067b21885c0b843"
+  },
+  ".shared/skills/database-transaction-management/SKILL.md": {
+    "source": "02-codestyle/skills/database-transaction-management/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "e60cd84a3242092f6756c3416ed62e0991d47c97668fa7536067b21885c0b843"
+  },
+  ".claude/skills/db-interface-procedure-flow/SKILL.md": {
+    "source": "02-codestyle/skills/db-interface-procedure-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "777ea04da6f1250f518a118685c7a7c62f8235dc52209c5f4042a1c2b9d8a8d2"
+  },
+  ".agents/skills/db-interface-procedure-flow/SKILL.md": {
+    "source": "02-codestyle/skills/db-interface-procedure-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "777ea04da6f1250f518a118685c7a7c62f8235dc52209c5f4042a1c2b9d8a8d2"
+  },
+  ".shared/skills/db-interface-procedure-flow/SKILL.md": {
+    "source": "02-codestyle/skills/db-interface-procedure-flow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "777ea04da6f1250f518a118685c7a7c62f8235dc52209c5f4042a1c2b9d8a8d2"
+  },
+  ".claude/skills/db-migration/SKILL.md": {
+    "source": "02-codestyle/skills/db-migration/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5bb997c7806a3dc030b1d0c7ea19e2669afbfba9ae7afd70d73f1f3f08ad4453"
+  },
+  ".agents/skills/db-migration/SKILL.md": {
+    "source": "02-codestyle/skills/db-migration/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5bb997c7806a3dc030b1d0c7ea19e2669afbfba9ae7afd70d73f1f3f08ad4453"
+  },
+  ".shared/skills/db-migration/SKILL.md": {
+    "source": "02-codestyle/skills/db-migration/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5bb997c7806a3dc030b1d0c7ea19e2669afbfba9ae7afd70d73f1f3f08ad4453"
+  },
+  ".claude/skills/defensive-troubleshooting-guide/SKILL.md": {
+    "source": "02-codestyle/skills/defensive-troubleshooting-guide/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ef52323ce503647ed17a9d8ce5c47dab6a5525022643eec16e89cfb129131ead"
+  },
+  ".agents/skills/defensive-troubleshooting-guide/SKILL.md": {
+    "source": "02-codestyle/skills/defensive-troubleshooting-guide/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ef52323ce503647ed17a9d8ce5c47dab6a5525022643eec16e89cfb129131ead"
+  },
+  ".shared/skills/defensive-troubleshooting-guide/SKILL.md": {
+    "source": "02-codestyle/skills/defensive-troubleshooting-guide/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "ef52323ce503647ed17a9d8ce5c47dab6a5525022643eec16e89cfb129131ead"
+  },
+  ".claude/skills/git-workflow/SKILL.md": {
+    "source": "02-codestyle/skills/git-workflow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "aa9bc41d19c63f2d87e5410ef2300b31fdfc9517718d3e51c9dfbd463e03fd2a"
+  },
+  ".agents/skills/git-workflow/SKILL.md": {
+    "source": "02-codestyle/skills/git-workflow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "aa9bc41d19c63f2d87e5410ef2300b31fdfc9517718d3e51c9dfbd463e03fd2a"
+  },
+  ".shared/skills/git-workflow/SKILL.md": {
+    "source": "02-codestyle/skills/git-workflow/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "aa9bc41d19c63f2d87e5410ef2300b31fdfc9517718d3e51c9dfbd463e03fd2a"
+  },
+  ".claude/skills/jpa-n-plus-one-optimization/SKILL.md": {
+    "source": "02-codestyle/skills/jpa-n-plus-one-optimization/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb694b7f17b645d3f15fce3180028e8ab454abc422b9053ad2e9692c4ef926c9"
+  },
+  ".agents/skills/jpa-n-plus-one-optimization/SKILL.md": {
+    "source": "02-codestyle/skills/jpa-n-plus-one-optimization/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb694b7f17b645d3f15fce3180028e8ab454abc422b9053ad2e9692c4ef926c9"
+  },
+  ".shared/skills/jpa-n-plus-one-optimization/SKILL.md": {
+    "source": "02-codestyle/skills/jpa-n-plus-one-optimization/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb694b7f17b645d3f15fce3180028e8ab454abc422b9053ad2e9692c4ef926c9"
+  },
+  ".claude/skills/multi-language-error-handling/SKILL.md": {
+    "source": "02-codestyle/skills/multi-language-error-handling/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5622b64cdcb320d14ba00a8ee4a84653adcd6d6c9a823caec32df1af7a6d1a36"
+  },
+  ".agents/skills/multi-language-error-handling/SKILL.md": {
+    "source": "02-codestyle/skills/multi-language-error-handling/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5622b64cdcb320d14ba00a8ee4a84653adcd6d6c9a823caec32df1af7a6d1a36"
+  },
+  ".shared/skills/multi-language-error-handling/SKILL.md": {
+    "source": "02-codestyle/skills/multi-language-error-handling/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "5622b64cdcb320d14ba00a8ee4a84653adcd6d6c9a823caec32df1af7a6d1a36"
+  },
+  ".claude/skills/redis-cache-patterns/SKILL.md": {
+    "source": "02-codestyle/skills/redis-cache-patterns/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb70e2e46065241a0a60bdbc8ef4c1dbacd271686916ff34a6156bb8e1456db9"
+  },
+  ".agents/skills/redis-cache-patterns/SKILL.md": {
+    "source": "02-codestyle/skills/redis-cache-patterns/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb70e2e46065241a0a60bdbc8ef4c1dbacd271686916ff34a6156bb8e1456db9"
+  },
+  ".shared/skills/redis-cache-patterns/SKILL.md": {
+    "source": "02-codestyle/skills/redis-cache-patterns/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "bb70e2e46065241a0a60bdbc8ef4c1dbacd271686916ff34a6156bb8e1456db9"
+  },
+  ".claude/skills/safe-git-rebase/SKILL.md": {
+    "source": "02-codestyle/skills/safe-git-rebase/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "a9963a32c0c745aa1c0a217e4737dac422ceeb2e2188ad511c16fc81209a532a"
+  },
+  ".agents/skills/safe-git-rebase/SKILL.md": {
+    "source": "02-codestyle/skills/safe-git-rebase/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "a9963a32c0c745aa1c0a217e4737dac422ceeb2e2188ad511c16fc81209a532a"
+  },
+  ".shared/skills/safe-git-rebase/SKILL.md": {
+    "source": "02-codestyle/skills/safe-git-rebase/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "a9963a32c0c745aa1c0a217e4737dac422ceeb2e2188ad511c16fc81209a532a"
+  },
+  ".claude/skills/spring-middleware-pipeline/SKILL.md": {
+    "source": "02-codestyle/skills/spring-middleware-pipeline/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "f245ed96ad0960b4a83bba3981d315eb53bbd717addb03c7671395156a8078e2"
+  },
+  ".agents/skills/spring-middleware-pipeline/SKILL.md": {
+    "source": "02-codestyle/skills/spring-middleware-pipeline/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "f245ed96ad0960b4a83bba3981d315eb53bbd717addb03c7671395156a8078e2"
+  },
+  ".shared/skills/spring-middleware-pipeline/SKILL.md": {
+    "source": "02-codestyle/skills/spring-middleware-pipeline/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "f245ed96ad0960b4a83bba3981d315eb53bbd717addb03c7671395156a8078e2"
+  },
+  ".claude/skills/sql-repository-pattern/SKILL.md": {
+    "source": "02-codestyle/skills/sql-repository-pattern/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "dbd911e5881e278d65e7b2498d836ad405f13201d99df3e8e831aafae6ce4af7"
+  },
+  ".agents/skills/sql-repository-pattern/SKILL.md": {
+    "source": "02-codestyle/skills/sql-repository-pattern/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "dbd911e5881e278d65e7b2498d836ad405f13201d99df3e8e831aafae6ce4af7"
+  },
+  ".shared/skills/sql-repository-pattern/SKILL.md": {
+    "source": "02-codestyle/skills/sql-repository-pattern/SKILL.md",
+    "category": "02-codestyle",
+    "checksum": "dbd911e5881e278d65e7b2498d836ad405f13201d99df3e8e831aafae6ce4af7"
+  },
+  ".claude/skills/agent-strict-guard/SKILL.md": {
+    "source": "03-hooks/skills/agent-strict-guard/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "613a7890c8a9d7f2b4c100f1f3927786c634ced493f0de0c89ff802dc0282d28"
+  },
+  ".agents/skills/agent-strict-guard/SKILL.md": {
+    "source": "03-hooks/skills/agent-strict-guard/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "613a7890c8a9d7f2b4c100f1f3927786c634ced493f0de0c89ff802dc0282d28"
+  },
+  ".shared/skills/agent-strict-guard/SKILL.md": {
+    "source": "03-hooks/skills/agent-strict-guard/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "613a7890c8a9d7f2b4c100f1f3927786c634ced493f0de0c89ff802dc0282d28"
+  },
+  ".claude/skills/code-review-gate/SKILL.md": {
+    "source": "03-hooks/skills/code-review-gate/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "ef04d3aa79fca85ab05ab579ffdbb4fe4aea73c498cbc2be33b175416d1ea197"
+  },
+  ".agents/skills/code-review-gate/SKILL.md": {
+    "source": "03-hooks/skills/code-review-gate/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "ef04d3aa79fca85ab05ab579ffdbb4fe4aea73c498cbc2be33b175416d1ea197"
+  },
+  ".shared/skills/code-review-gate/SKILL.md": {
+    "source": "03-hooks/skills/code-review-gate/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "ef04d3aa79fca85ab05ab579ffdbb4fe4aea73c498cbc2be33b175416d1ea197"
+  },
+  ".claude/skills/dangerous-action-blocker/SKILL.md": {
+    "source": "03-hooks/skills/dangerous-action-blocker/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "b63a7c7e1b97907dcc4efba9e6e7e1f4cd0428d2fa39447b0ceef81f3bb165a6"
+  },
+  ".agents/skills/dangerous-action-blocker/SKILL.md": {
+    "source": "03-hooks/skills/dangerous-action-blocker/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "b63a7c7e1b97907dcc4efba9e6e7e1f4cd0428d2fa39447b0ceef81f3bb165a6"
+  },
+  ".shared/skills/dangerous-action-blocker/SKILL.md": {
+    "source": "03-hooks/skills/dangerous-action-blocker/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "b63a7c7e1b97907dcc4efba9e6e7e1f4cd0428d2fa39447b0ceef81f3bb165a6"
+  },
+  ".claude/skills/post-code-verification/SKILL.md": {
+    "source": "03-hooks/skills/post-code-verification/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "811b5fc0f12af6b7a76f6b96bd084470031a65b80596797e751afb921ef427ca"
+  },
+  ".agents/skills/post-code-verification/SKILL.md": {
+    "source": "03-hooks/skills/post-code-verification/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "811b5fc0f12af6b7a76f6b96bd084470031a65b80596797e751afb921ef427ca"
+  },
+  ".shared/skills/post-code-verification/SKILL.md": {
+    "source": "03-hooks/skills/post-code-verification/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "811b5fc0f12af6b7a76f6b96bd084470031a65b80596797e751afb921ef427ca"
+  },
+  ".claude/skills/security-secret-scanner/SKILL.md": {
+    "source": "03-hooks/skills/security-secret-scanner/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "c647f6d4104c4be4eadf04c8f813270c42a4b9608a2be29c8b72c9b5fd54ebc7"
+  },
+  ".agents/skills/security-secret-scanner/SKILL.md": {
+    "source": "03-hooks/skills/security-secret-scanner/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "c647f6d4104c4be4eadf04c8f813270c42a4b9608a2be29c8b72c9b5fd54ebc7"
+  },
+  ".shared/skills/security-secret-scanner/SKILL.md": {
+    "source": "03-hooks/skills/security-secret-scanner/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "c647f6d4104c4be4eadf04c8f813270c42a4b9608a2be29c8b72c9b5fd54ebc7"
+  },
+  ".claude/skills/test-feature/SKILL.md": {
+    "source": "03-hooks/skills/test-feature/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "e7b7906305ecb32d72a7067583b928819c993b2988e3b8033684124c20303e1a"
+  },
+  ".agents/skills/test-feature/SKILL.md": {
+    "source": "03-hooks/skills/test-feature/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "e7b7906305ecb32d72a7067583b928819c993b2988e3b8033684124c20303e1a"
+  },
+  ".shared/skills/test-feature/SKILL.md": {
+    "source": "03-hooks/skills/test-feature/SKILL.md",
+    "category": "03-hooks",
+    "checksum": "e7b7906305ecb32d72a7067583b928819c993b2988e3b8033684124c20303e1a"
+  },
+  ".claude/skills/adopt-repo/SKILL.md": {
+    "source": "04-management/skills/adopt-repo/SKILL.md",
+    "category": "04-management",
+    "checksum": "cf3495516ed530933f3be189d4b1bfa5a33f3422f32af2b8e50eb31fa25c59bd"
+  },
+  ".agents/skills/adopt-repo/SKILL.md": {
+    "source": "04-management/skills/adopt-repo/SKILL.md",
+    "category": "04-management",
+    "checksum": "cf3495516ed530933f3be189d4b1bfa5a33f3422f32af2b8e50eb31fa25c59bd"
+  },
+  ".shared/skills/adopt-repo/SKILL.md": {
+    "source": "04-management/skills/adopt-repo/SKILL.md",
+    "category": "04-management",
+    "checksum": "cf3495516ed530933f3be189d4b1bfa5a33f3422f32af2b8e50eb31fa25c59bd"
+  },
+  ".claude/skills/human-authority-override/SKILL.md": {
+    "source": "04-management/skills/human-authority-override/SKILL.md",
+    "category": "04-management",
+    "checksum": "0ff90fef5957a5a4e438ebd8f83876d89f34816918b712dbf3cac0e5ab696094"
+  },
+  ".agents/skills/human-authority-override/SKILL.md": {
+    "source": "04-management/skills/human-authority-override/SKILL.md",
+    "category": "04-management",
+    "checksum": "0ff90fef5957a5a4e438ebd8f83876d89f34816918b712dbf3cac0e5ab696094"
+  },
+  ".shared/skills/human-authority-override/SKILL.md": {
+    "source": "04-management/skills/human-authority-override/SKILL.md",
+    "category": "04-management",
+    "checksum": "0ff90fef5957a5a4e438ebd8f83876d89f34816918b712dbf3cac0e5ab696094"
+  },
+  ".claude/skills/human-master-map/SKILL.md": {
+    "source": "04-management/skills/human-master-map/SKILL.md",
+    "category": "04-management",
+    "checksum": "9426b671f7453846395f86495ae9b8a97307c6563a8a36972426e5d90cd0305d"
+  },
+  ".agents/skills/human-master-map/SKILL.md": {
+    "source": "04-management/skills/human-master-map/SKILL.md",
+    "category": "04-management",
+    "checksum": "9426b671f7453846395f86495ae9b8a97307c6563a8a36972426e5d90cd0305d"
+  },
+  ".shared/skills/human-master-map/SKILL.md": {
+    "source": "04-management/skills/human-master-map/SKILL.md",
+    "category": "04-management",
+    "checksum": "9426b671f7453846395f86495ae9b8a97307c6563a8a36972426e5d90cd0305d"
+  },
+  ".claude/skills/project-doctor/SKILL.md": {
+    "source": "04-management/skills/project-doctor/SKILL.md",
+    "category": "04-management",
+    "checksum": "2d7a1d6a051201d2e4727d79ebd3387fdcbaaf083d70c7d1babf383ec142d636"
+  },
+  ".agents/skills/project-doctor/SKILL.md": {
+    "source": "04-management/skills/project-doctor/SKILL.md",
+    "category": "04-management",
+    "checksum": "2d7a1d6a051201d2e4727d79ebd3387fdcbaaf083d70c7d1babf383ec142d636"
+  },
+  ".shared/skills/project-doctor/SKILL.md": {
+    "source": "04-management/skills/project-doctor/SKILL.md",
+    "category": "04-management",
+    "checksum": "2d7a1d6a051201d2e4727d79ebd3387fdcbaaf083d70c7d1babf383ec142d636"
+  },
+  ".claude/skills/project-governance-dashboard/SKILL.md": {
+    "source": "04-management/skills/project-governance-dashboard/SKILL.md",
+    "category": "04-management",
+    "checksum": "abc10a73655618eb1a13fb742b109171973ff9414429d55b418634348b8741ee"
+  },
+  ".agents/skills/project-governance-dashboard/SKILL.md": {
+    "source": "04-management/skills/project-governance-dashboard/SKILL.md",
+    "category": "04-management",
+    "checksum": "abc10a73655618eb1a13fb742b109171973ff9414429d55b418634348b8741ee"
+  },
+  ".shared/skills/project-governance-dashboard/SKILL.md": {
+    "source": "04-management/skills/project-governance-dashboard/SKILL.md",
+    "category": "04-management",
+    "checksum": "abc10a73655618eb1a13fb742b109171973ff9414429d55b418634348b8741ee"
+  }
+}

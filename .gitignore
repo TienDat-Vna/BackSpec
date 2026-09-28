@@ -1,0 +1,63 @@
+# Microservice Backend Git Ignore
+
+# Secrets & Environment Variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.yml
+secrets.yaml
+secrets.json
+credentials.yml
+credentials.yaml
+credentials.json
+
+# Tooling & Node
+node_modules/
+npm-debug.log*
+
+# Java / Maven / Gradle
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+
+# Go
+bin/
+*.exe
+*.test
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# C# / .NET
+bin/
+obj/
+
+# Rust
+target/
+
+# Logs & Temporary Data
+logs/
+*.log
+uploads/
+storage/
+tmp/
+temp/
+
+# IDE & Editor files
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.swp
+.DS_Store
+
+# OS Files
+Thumbs.db

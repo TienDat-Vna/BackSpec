@@ -1,0 +1,62 @@
+# AI Agent Ignore File — Prevents AI assistants from scanning or reading sensitive data, binaries, or large build artifacts
+
+# 1. CRITICAL SECURITY — Secrets & Private Keys
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+!**/.env.template
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/*.keystore
+**/*.jks
+**/secrets.yml
+**/secrets.yaml
+**/secrets.json
+**/credentials.yml
+**/credentials.yaml
+**/credentials.json
+
+# 2. Build Outputs & Artifacts
+**/target/
+**/build/
+**/dist/
+**/bin/
+**/obj/
+**/out/
+**/*.jar
+**/*.war
+**/*.class
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# 3. Dependencies & Package Stores
+**/node_modules/
+**/vendor/
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.gradle/
+**/.m2/repository/
+
+# 4. Storage, Logs & DB Dumps
+**/*.log
+**/logs/
+**/storage/
+**/uploads/
+**/*.sql.gz
+**/*.dump
+**/*.sqlite
+**/*.db
+
+# 5. IDE & OS Noise
+**/.idea/
+**/.vscode/*
+!**/.vscode/settings.json
+!**/.vscode/extensions.json
+**/.DS_Store
+**/Thumbs.db

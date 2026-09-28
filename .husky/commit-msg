@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Husky commit-msg hook: Ép format commit message theo Conventional Commits
+npx --no -- commitlint --edit "$1"

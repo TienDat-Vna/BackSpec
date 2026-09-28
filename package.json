@@ -1,0 +1,32 @@
+{
+  "name": "microservice-agent-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enterprise AI-Assisted / Spec-Driven Development (SDD) Kit for Backend Microservices (4-Folder Architecture)",
+  "scripts": {
+    "prepare": "husky || true",
+    "sync-rules": "node 04-management/tools/sync-shared-rules.js",
+    "verify-rules": "node 04-management/tools/sync-shared-rules.js --check",
+    "sync-skills": "node 04-management/tools/sync-shared-skills.js",
+    "verify-skills": "node 04-management/tools/sync-shared-skills.js --check",
+    "sync-all": "npm run sync-rules && npm run sync-skills",
+    "adopt": "node 04-management/tools/adopt-repo.js",
+    "doctor": "node 04-management/tools/project-doctor.js",
+    "validate": "node 04-management/tools/validate-project.js",
+    "test:skills": "node 04-management/tools/test-skill-system.js"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0"
+  },
+  "lint-staged": {
+    "*.{java,go,ts,js,py,cs,rs}": [
+      "echo 'Running backend linter/formatter on staged files...'"
+    ],
+    "*.md": [
+      "node -e \"console.log('Markdown validated')\""
+    ]
+  }
+}

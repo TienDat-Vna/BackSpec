@@ -1,0 +1,18 @@
+{
+  "_comment_vi": "MCP (Model Context Protocol) project-level config cho Backend Microservices. Mặc định chỉ dùng quyền READ-ONLY để bảo vệ database production/staging.",
+  "mcpServers": {
+    "github": {
+      "_comment_vi": "Tương tác GitHub PR/Issue qua token",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "database": {
+      "_comment_vi": "Đọc schema trực tiếp cho db-migration skill (Read-only Postgres/MySQL)",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-postgres", "postgresql://${DB_READONLY_USER}:${DB_READONLY_PASSWORD}@${DB_READONLY_HOST}:${DB_READONLY_PORT}/${DB_READONLY_DATABASE}"]
+    }
+  }
+}
