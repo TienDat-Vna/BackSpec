@@ -1,8 +1,8 @@
-# ⚡ BackSpec & Specify — Enterprise Spec-Driven Development (SDD) Tool
+# BackSpec & Specify — Enterprise Spec-Driven Development (SDD) Tool
 
-> **BackSpec** (`backspec` / `specify`) là bộ công cụ dòng lệnh (CLI Tool) toàn diện, **tích hợp 100% chức năng của GitHub Spec-Kit (`specify`)** và được nâng cấp chuyên biệt hóa cho các dự án **Backend Microservices** (Java/Spring Boot, Go, Node/NestJS, Python/FastAPI, C#/.NET Core, Rust).
+> **BackSpec** (`backspec` / `specify`) là bộ công cụ dòng lệnh (CLI Tool) toàn diện, tích hợp đầy đủ chức năng của **GitHub Spec-Kit (`specify`)** và được nâng cấp chuyên biệt hóa cho các hệ thống **Backend Microservices** (Java/Spring Boot, Go, Node/NestJS, Python/FastAPI, C#/.NET Core, Rust).
 > 
-> Cho phép lập trình viên và AI Coding Agents (GitHub Copilot, Claude Code, Cursor, Windsurf, Antigravity, Gemini) phát triển phần mềm theo quy trình **Spec-First** chuẩn xác: **Nạp tài liệu Word (.docx) & Sơ đồ ảnh (.png) ➔ Sinh Đặc tả SDD Đóng Gói (.sdd/) ➔ Đối Soát Chéo 2 Chiều (Cross-Audit) ➔ Lập Trình Chuẩn DTO Pattern & DoD**.
+> Hỗ trợ lập trình viên và AI Coding Agents (Google Antigravity, Claude Code, GitHub Copilot, Cursor, Windsurf) phát triển phần mềm theo quy trình **Spec-First** chuẩn mực: **Nạp tài liệu Word (.docx) & Sơ đồ (.png) -> Sinh Đặc tả SDD Đóng Gói (.sdd/) -> Đối Soát Chéo 2 Chiều (Cross-Audit) -> Lập Trình Chuẩn DTO Pattern & DoD**.
 
 ---
 
@@ -14,26 +14,26 @@
   ██████╔╝██║  ██║╚██████╗██║  ██╗███████║██║     ███████╗╚██████╗
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝
 
-  ⚡ Enterprise Spec-Driven Development (SDD) for Backend Microservices ⚡
-     Version 2.0.0 | Multi-Engine Governance (Claude, Antigravity, Copilot, Cursor)
+  Enterprise Spec-Driven Development (SDD) for Backend Microservices
+     Version 2.0.0 | Multi-Engine Governance (Antigravity, Claude, Copilot, Cursor)
 ```
 
 ---
 
-## 🌟 TÍNH NĂNG NỔI BẬT (KEY CAPABILITIES)
+## TÍNH NĂNG NỔI BẬT (KEY CAPABILITIES)
 
-1. **📄 Docx & Image Ingestion Engine:** Trích xuất tự động bảng dữ liệu (Data Dictionary), Validation rules, API list từ file Word (`.docx`) và phân tích sơ đồ ERD, Architecture, Sequence từ file ảnh (`.png`, `.jpg`).
-2. **📦 Cấu Trúc Đóng Gói Đơn Nhất (`.sdd/` Encapsulation):** Toàn bộ specs, rules, inputs được đóng gói gọn trong `.sdd/`, loại bỏ hoàn toàn việc sinh file/folder rác ra root dự án và bảo vệ Git tuyệt đối (`.gitignore`).
-3. **🔍 Động Cơ Đối Soát Chéo 2 Chiều (Bidirectional Cross-Audit):** Tự động so sánh Spec vs Tài liệu gốc (Under-spec / Over-spec check) và Spec vs Mã nguồn có sẵn (Schema conflict, Entity naming), xuất file `AUDIT_REPORT.md` kèm điểm số **Fidelity Score %**.
-4. **🤖 41 Enterprise Skills & Multi-AI Registry:** Cung cấp 41 kỹ năng phân tầng trong `registry/` tương thích đồng thời với Google Antigravity, Claude Code, GitHub Copilot, Cursor và Windsurf.
+1. **Docx & Image Ingestion Engine:** Trích xuất tự động bảng dữ liệu (Data Dictionary), Validation rules, API list từ file Word (`.docx`) và phân tích sơ đồ ERD, Architecture, Sequence từ file ảnh (`.png`, `.jpg`).
+2. **Cấu Trúc Đóng Gói Đơn Nhất (.sdd/ Encapsulation):** Toàn bộ specs, rules, inputs được đóng gói gọn trong `.sdd/`, loại bỏ hoàn toàn việc sinh file/folder rác ra root dự án và bảo vệ Git an toàn (`.gitignore`).
+3. **Động Cơ Đối Soát Chéo 2 Chiều (Bidirectional Cross-Audit):** Tự động so sánh Spec vs Tài liệu gốc (Under-spec / Over-spec check) và Spec vs Mã nguồn có sẵn (Schema conflict, Entity naming), xuất file `AUDIT_REPORT.md` kèm điểm số **Fidelity Score %**.
+4. **41 Enterprise Skills & Multi-AI Registry:** Cung cấp 41 kỹ năng phân tầng trong `registry/` tương thích đồng thời với Google Antigravity, Claude Code, GitHub Copilot, Cursor và Windsurf.
 
 ---
 
-## 🚀 1. CÀI ĐẶT & VẬN HÀNH (INSTALLATION & USAGE)
+## 1. CÀI ĐẶT & VẬN HÀNH (INSTALLATION & USAGE)
 
 Bạn có thể sử dụng linh hoạt với cả hai tên gọi `backspec` và `specify`:
 
-### Sử dụng trực tiếp qua `npx` (Khuyến nghị):
+### Sử dụng trực tiếp qua npx (Khuyến nghị):
 ```bash
 # 1. Khởi tạo khung quản trị SDD đóng gói trong .sdd/
 npx specify init --ai antigravity   # hoặc --ai all
@@ -68,9 +68,9 @@ backspec list skills
 
 ---
 
-## 🛠️ 2. BẢNG TỔNG HỢP LỆNH CLI (FULL COMMAND MATRIX)
+## 2. BẢNG TỔNG HỢP LỆNH CLI (FULL COMMAND MATRIX)
 
-### 🔄 A. Quy Trình Phát Triển Tính Năng (Spec-Kit SDD Workflow)
+### A. Quy Trình Phát Triển Tính Năng (Spec-Kit SDD Workflow)
 
 | Lệnh CLI | Lệnh rút gọn | Mô tả chi tiết |
 |---|---|---|
@@ -82,12 +82,12 @@ backspec list skills
 | `specify tasks <name>` | `backspec tasks` | Phân rã kế hoạch thành checklist 6 giai đoạn nguyên tử trong `TASKS.md`. |
 | `specify clarify <name>` | `backspec clarify` | Tìm và làm rõ các điểm mơ hồ logic (sinh `CLARIFICATIONS.md`). |
 | `specify checklist <name>` | `backspec checklist` | Sinh bảng kiểm định chất lượng Acceptance Criteria (`CHECKLIST.md`). |
-| `specify analyze <name>` | `backspec analyze` | Phân tích tính nhất quán chéo (Constitution ↔ Spec ↔ Plan ↔ Tasks). |
+| `specify analyze <name>` | `backspec analyze` | Phân tích tính nhất quán chéo (Constitution - Spec - Plan - Tasks). |
 | `specify implement <name>` | `backspec implement` | Chuẩn bị bounded context và hướng dẫn code task pending kế tiếp. |
 | `specify pr <name>` | `backspec pr` | Tự động sinh nội dung mô tả Pull Request (`PR_DESCRIPTION.md`). |
 | `specify export <name>` | `specify pack` | Xuất trọn bộ tài liệu đặc tả thành 1 bundle duy nhất (`*-full-bundle.md`). |
 
-### 🏛️ B. Quản Trị Hệ Thống & Kiểm Định (Governance & Quality Gate)
+### B. Quản Trị Hệ Thống & Kiểm Định (Governance & Quality Gate)
 
 | Lệnh CLI | Tương đương | Mô tả chi tiết |
 |---|---|---|
@@ -101,9 +101,9 @@ backspec list skills
 
 ---
 
-## 🤖 3. BỘ SLASH COMMANDS TRONG AI CODING AGENTS
+## 3. BỘ SLASH COMMANDS TRONG AI CODING AGENTS
 
-Khi làm việc bên trong chat của AI Agent (Cursor, Claude Code, Antigravity, GitHub Copilot), bạn có thể gọi trực tiếp các lệnh slash:
+Khi làm việc bên trong chat của AI Agent (Google Antigravity, Claude Code, Cursor, GitHub Copilot), bạn có thể gọi trực tiếp các lệnh slash:
 
 | Slash Command | Vai trò & Chức năng |
 |---|---|
@@ -121,7 +121,7 @@ Khi làm việc bên trong chat của AI Agent (Cursor, Claude Code, Antigravity
 
 ---
 
-## 📁 4. CẤU TRÚC DỰ ÁN ĐÓNG GÓI (.sdd/ ENCAPSULATION)
+## 4. CẤU TRÚC DỰ ÁN ĐÓNG GÓI (.sdd/ ENCAPSULATION)
 
 Khi áp dụng BackSpec vào một dự án microservice (Java Spring Boot, Go, Node, v.v.), cấu trúc được gom gọn gàng:
 
@@ -151,7 +151,7 @@ Dự án của bạn/
 
 ---
 
-## 🏛️ 5. KIỀNG 3 CHÂN QUẢN TRỊ (GOVERNANCE TRIANGLE)
+## 5. KIỀNG 3 CHÂN QUẢN TRỊ (GOVERNANCE TRIANGLE)
 
 ```
                        ┌─────────────────────────┐
@@ -173,6 +173,6 @@ Dự án của bạn/
 
 ---
 
-## 📜 6. GIẤY PHÉP (LICENSE)
+## 6. GIẤY PHÉP (LICENSE)
 Phát triển theo giấy phép **MIT License**.
 Tương thích 100% với chuẩn **GitHub Spec-Kit (`specify`)**.
