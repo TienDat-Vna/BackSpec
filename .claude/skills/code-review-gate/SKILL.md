@@ -4,7 +4,7 @@ description: Chạy đủ 4 lớp Validation Gate (Automated Build & Lint / Spec
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/code-review-gate/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/code-review-gate/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/code-review-gate/SKILL.md — DO NOT EDIT DIRECTLY -->
 

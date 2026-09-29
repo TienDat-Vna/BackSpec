@@ -4,7 +4,7 @@ description: Điều phối viết Unit Test, Integration Test, chạy test suit
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/test-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/test-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/test-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 

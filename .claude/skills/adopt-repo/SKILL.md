@@ -4,7 +4,7 @@ description: Tự động phân tích repository Backend Microservice (mới ho�
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 04-management/adopt-repo/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/adopt-repo/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/04-management/adopt-repo/SKILL.md — DO NOT EDIT DIRECTLY -->
 

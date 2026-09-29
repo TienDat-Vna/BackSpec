@@ -3,7 +3,7 @@ name: speckit-implement
 description: Thực thi lập trình từng task trong TASKS.md theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-implement/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-implement/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.implement — Task Execution Guide
 

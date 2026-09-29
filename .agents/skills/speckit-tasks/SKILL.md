@@ -3,7 +3,7 @@ name: speckit-tasks
 description: Phân rã kế hoạch thành danh sách công việc nguyên tử (TASKS.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-tasks/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-tasks/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.tasks — Implementation Task Breakdown
 

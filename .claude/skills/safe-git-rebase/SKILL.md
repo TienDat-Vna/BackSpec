@@ -4,7 +4,7 @@ description: Quy trình Git Rebase chuẩn mực, an toàn tuyệt đối (Fail-
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 02-codestyle/safe-git-rebase/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/safe-git-rebase/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/safe-git-rebase/SKILL.md — DO NOT EDIT DIRECTLY -->
 

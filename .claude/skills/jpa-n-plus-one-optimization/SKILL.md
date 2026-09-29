@@ -4,7 +4,7 @@ description: Kỹ thuật phát hiện, tối ưu và triệt tiêu bẫy N+1 Qu
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/jpa-n-plus-one-optimization/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/jpa-n-plus-one-optimization/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/jpa-n-plus-one-optimization/SKILL.md — DO NOT EDIT DIRECTLY -->
 

@@ -4,7 +4,7 @@ description: Vai trò người bảo vệ tối cao (Supreme Watchdog / Zero-Tol
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/agent-strict-guard/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/agent-strict-guard/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/agent-strict-guard/SKILL.md — DO NOT EDIT DIRECTLY -->
 

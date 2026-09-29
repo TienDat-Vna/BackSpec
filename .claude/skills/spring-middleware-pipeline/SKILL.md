@@ -4,7 +4,7 @@ description: Quy chuẩn thiết kế và điều phối chuỗi Middleware tron
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/spring-middleware-pipeline/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/spring-middleware-pipeline/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/spring-middleware-pipeline/SKILL.md — DO NOT EDIT DIRECTLY -->
 

@@ -4,7 +4,7 @@ description: Quét thời gian thực phát hiện rò rỉ API Keys, Token, Pri
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/security-secret-scanner/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/security-secret-scanner/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/security-secret-scanner/SKILL.md — DO NOT EDIT DIRECTLY -->
 

@@ -3,7 +3,7 @@ name: speckit-analyze
 description: Phân tích tính nhất quán chéo giữa Hiến pháp, Spec, Plan và Tasks theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-analyze/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-analyze/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.analyze — Cross-Artifact Consistency Analyzer
 

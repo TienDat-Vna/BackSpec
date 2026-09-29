@@ -4,7 +4,7 @@ description: Cơ chế phân quyền và kiểm soát tối thượng của con 
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 04-management/human-authority-override/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/human-authority-override/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/04-management/human-authority-override/SKILL.md — DO NOT EDIT DIRECTLY -->
 

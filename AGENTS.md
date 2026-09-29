@@ -78,7 +78,7 @@ Entity ──mapping──► DTO (Request/Response) ──► API / Kafka
 
 
 <!-- BEGIN GENERATED RULES — DO NOT EDIT BELOW THIS LINE -->
-<!-- GENERATED FROM 02-codestyle/rules/api-design.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/api-design.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Microservice API Design Standard
@@ -110,7 +110,7 @@ Khi thêm hoặc chỉnh sửa endpoint API:
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/async-integration.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/async-integration.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Async Integration & Messaging Rules
@@ -131,7 +131,7 @@ Khi gửi/nhận thông điệp qua Event Broker (Kafka/RabbitMQ) hoặc tác v�
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/backend-feature.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/backend-feature.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Backend Feature & Domain Rules
@@ -156,7 +156,7 @@ Khi phát triển hoặc chỉnh sửa code backend:
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/db-migration.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/db-migration.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Database Migration Rules
@@ -178,7 +178,7 @@ Khi tạo migration trong `db/migration/**` hoặc `migrations/**`:
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/microservice-resilience.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/microservice-resilience.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Microservice Resilience & Fault Tolerance
@@ -199,7 +199,7 @@ Khi thực hiện lời gọi mạng (HTTP/gRPC) sang microservice khác hoặc 
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/security.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/security.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Security & Authentication Rules
@@ -221,7 +221,7 @@ Khi viết code liên quan đến xác thực, phân quyền hoặc bảo mật 
 
 ---
 
-<!-- GENERATED FROM 02-codestyle/rules/testing.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/rules/testing.md — DO NOT EDIT DIRECTLY -->
 
 ---
 title: Backend Testing Rules

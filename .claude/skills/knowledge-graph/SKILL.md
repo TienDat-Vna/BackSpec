@@ -4,7 +4,7 @@ description: Tra cứu kiến trúc hệ thống microservice, sơ đồ phụ t
 allowed-tools: [Read, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 01-spec-management/knowledge-graph/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/knowledge-graph/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/knowledge-graph/SKILL.md — DO NOT EDIT DIRECTLY -->
 

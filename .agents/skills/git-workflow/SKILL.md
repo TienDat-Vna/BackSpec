@@ -4,7 +4,7 @@ description: Quản lý quy trình Git chuyên nghiệp cho Microservices (Conve
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 02-codestyle/git-workflow/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/git-workflow/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/git-workflow/SKILL.md — DO NOT EDIT DIRECTLY -->
 

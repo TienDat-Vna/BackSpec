@@ -3,7 +3,7 @@ name: speckit-plan
 description: Thiết kế kiến trúc kỹ thuật và luồng thực thi (PLAN.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-plan/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-plan/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.plan — Technical & Architectural Plan Generator
 

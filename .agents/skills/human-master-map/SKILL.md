@@ -4,7 +4,7 @@ description: Bản đồ toàn diện hệ thống dành cho con người (Tech 
 allowed-tools: [Read, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 04-management/human-master-map/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/human-master-map/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/04-management/human-master-map/SKILL.md — DO NOT EDIT DIRECTLY -->
 

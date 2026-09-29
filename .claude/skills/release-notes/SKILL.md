@@ -4,7 +4,7 @@ description: Tự động tổng hợp changelog và release notes từ git comm
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 01-spec-management/release-notes/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/release-notes/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/release-notes/SKILL.md — DO NOT EDIT DIRECTLY -->
 

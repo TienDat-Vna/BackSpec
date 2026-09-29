@@ -3,7 +3,7 @@ name: speckit-help
 description: Hướng dẫn tổng quan về quy trình Spec-Driven Development (SDD) của GitHub Spec-Kit & BackSpec
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-help/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-help/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.help — Spec-Driven Development Overview
 

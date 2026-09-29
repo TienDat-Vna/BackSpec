@@ -4,7 +4,7 @@ description: Quản lý cấu hình DNA và bộ não hệ thống (CONSTITUTION
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 01-spec-management/system-dna-manager/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/system-dna-manager/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/system-dna-manager/SKILL.md — DO NOT EDIT DIRECTLY -->
 

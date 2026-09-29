@@ -4,7 +4,7 @@ description: Bộ quy chuẩn đặt tên biến, hàm, hằng số, DTO, Databa
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/clean-code-naming-conventions/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/clean-code-naming-conventions/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/clean-code-naming-conventions/SKILL.md — DO NOT EDIT DIRECTLY -->
 

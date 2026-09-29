@@ -4,7 +4,7 @@ description: Soạn thảo bộ đặc tả kỹ thuật Microservice (SPEC.md, 
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 01-spec-management/spec-writer/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/spec-writer/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/spec-writer/SKILL.md — DO NOT EDIT DIRECTLY -->
 

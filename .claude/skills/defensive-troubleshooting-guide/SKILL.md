@@ -4,7 +4,7 @@ description: Cẩm nang lập trình phòng thủ (Defensive Programming) và s�
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/defensive-troubleshooting-guide/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/defensive-troubleshooting-guide/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/defensive-troubleshooting-guide/SKILL.md — DO NOT EDIT DIRECTLY -->
 

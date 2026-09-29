@@ -4,7 +4,7 @@ description: Kỹ thuật xây dựng Repository, Parameterized Queries chống 
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/sql-repository-pattern/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/sql-repository-pattern/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/sql-repository-pattern/SKILL.md — DO NOT EDIT DIRECTLY -->
 

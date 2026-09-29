@@ -4,7 +4,7 @@ description: Phân tích kỹ lưỡng kiến trúc, constitution, ranh giới b
 allowed-tools: [Read, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 01-spec-management/analyze-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/analyze-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/analyze-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 

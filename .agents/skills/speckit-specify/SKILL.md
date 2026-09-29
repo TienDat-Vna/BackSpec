@@ -3,7 +3,7 @@ name: speckit-specify
 description: Khởi tạo hoặc cập nhật đặc tả kỹ thuật tính năng (SPEC.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-specify/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-specify/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.specify — Feature Specification Generator
 

@@ -1,0 +1,424 @@
+{
+  "rules": {
+    "registry/rules/api-design.md": "d6bb6e085dba504a2748793d0a28b4ae81a6ce6e04f9e46eba2439bcaf48c4ef",
+    "registry/rules/async-integration.md": "9150888b4feed956aee7ec881c83bf1e30c6a158ad9282f10621a4e7d8e1f25e",
+    "registry/rules/backend-feature.md": "466b60569f367e8809d8acd4976046d655f73cd6d58208f32a413a407589fe01",
+    "registry/rules/db-migration.md": "5e730f4b3742563345220f120ff5dd6512fb170c4e6ca620a441896123714077",
+    "registry/rules/microservice-resilience.md": "9d087d1f0bf893cd0a4aa5806200b60d0aa9e7459a3903db02a3cbeda5fe38ea",
+    "registry/rules/security.md": "79040227585bc939451c03ccd08126c7c11caf288bbd4187dc29c6a58d0e7b01",
+    "registry/rules/testing.md": "a6c2342ce62038d033d8978424904188ff57682933f12a52f214a469ed76dc46"
+  },
+  "updated_at": "2026-09-29T07:32:02.408Z",
+  "skills": {
+    ".agents/skills/adopt-repo/SKILL.md": {
+      "source": "registry/skills/adopt-repo/SKILL.md",
+      "category": "registry",
+      "checksum": "f1f6a74a24cef292f3ffe6f43b9f599a14cf26728768e75d813b0526192c4a7e"
+    },
+    ".claude/skills/adopt-repo/SKILL.md": {
+      "source": "registry/skills/adopt-repo/SKILL.md",
+      "category": "registry",
+      "checksum": "f1f6a74a24cef292f3ffe6f43b9f599a14cf26728768e75d813b0526192c4a7e"
+    },
+    ".agents/skills/agent-strict-guard/SKILL.md": {
+      "source": "registry/skills/agent-strict-guard/SKILL.md",
+      "category": "registry",
+      "checksum": "672fab562ac946935cda463d992464aef1238eae375ae67949ceca69caa6e26f"
+    },
+    ".claude/skills/agent-strict-guard/SKILL.md": {
+      "source": "registry/skills/agent-strict-guard/SKILL.md",
+      "category": "registry",
+      "checksum": "672fab562ac946935cda463d992464aef1238eae375ae67949ceca69caa6e26f"
+    },
+    ".agents/skills/analyze-feature/SKILL.md": {
+      "source": "registry/skills/analyze-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "5333e43f95747655d24441a19cbb9d56846262c4338566e986ab98988c3c612b"
+    },
+    ".claude/skills/analyze-feature/SKILL.md": {
+      "source": "registry/skills/analyze-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "5333e43f95747655d24441a19cbb9d56846262c4338566e986ab98988c3c612b"
+    },
+    ".agents/skills/backend-api-design-flow/SKILL.md": {
+      "source": "registry/skills/backend-api-design-flow/SKILL.md",
+      "category": "registry",
+      "checksum": "91673da046c0c16d2f1a0692fee288c1d711ff2fd13851b772a36ccc3a784d51"
+    },
+    ".claude/skills/backend-api-design-flow/SKILL.md": {
+      "source": "registry/skills/backend-api-design-flow/SKILL.md",
+      "category": "registry",
+      "checksum": "91673da046c0c16d2f1a0692fee288c1d711ff2fd13851b772a36ccc3a784d51"
+    },
+    ".agents/skills/clean-code-naming-conventions/SKILL.md": {
+      "source": "registry/skills/clean-code-naming-conventions/SKILL.md",
+      "category": "registry",
+      "checksum": "d69ca5e482e2ac952555f6a227a9746efe76d6ad9c9e2fd6007731c0c534aef7"
+    },
+    ".claude/skills/clean-code-naming-conventions/SKILL.md": {
+      "source": "registry/skills/clean-code-naming-conventions/SKILL.md",
+      "category": "registry",
+      "checksum": "d69ca5e482e2ac952555f6a227a9746efe76d6ad9c9e2fd6007731c0c534aef7"
+    },
+    ".agents/skills/code-review-gate/SKILL.md": {
+      "source": "registry/skills/code-review-gate/SKILL.md",
+      "category": "registry",
+      "checksum": "3a63912a85280d58c4d1994665736e673af4260b6c02570e9b2f2327c6656874"
+    },
+    ".claude/skills/code-review-gate/SKILL.md": {
+      "source": "registry/skills/code-review-gate/SKILL.md",
+      "category": "registry",
+      "checksum": "3a63912a85280d58c4d1994665736e673af4260b6c02570e9b2f2327c6656874"
+    },
+    ".agents/skills/dangerous-action-blocker/SKILL.md": {
+      "source": "registry/skills/dangerous-action-blocker/SKILL.md",
+      "category": "registry",
+      "checksum": "ace993f8ef4c3436e52ccfd2cb16573738282b91011e1fc2e76806aee5724e8a"
+    },
+    ".claude/skills/dangerous-action-blocker/SKILL.md": {
+      "source": "registry/skills/dangerous-action-blocker/SKILL.md",
+      "category": "registry",
+      "checksum": "ace993f8ef4c3436e52ccfd2cb16573738282b91011e1fc2e76806aee5724e8a"
+    },
+    ".agents/skills/database-transaction-management/SKILL.md": {
+      "source": "registry/skills/database-transaction-management/SKILL.md",
+      "category": "registry",
+      "checksum": "1a586362646171a1aaa926e99579473f9418bc98cf7e9c320be2cbb23c8301c7"
+    },
+    ".claude/skills/database-transaction-management/SKILL.md": {
+      "source": "registry/skills/database-transaction-management/SKILL.md",
+      "category": "registry",
+      "checksum": "1a586362646171a1aaa926e99579473f9418bc98cf7e9c320be2cbb23c8301c7"
+    },
+    ".agents/skills/db-interface-procedure-flow/SKILL.md": {
+      "source": "registry/skills/db-interface-procedure-flow/SKILL.md",
+      "category": "registry",
+      "checksum": "3f0970210f10514d7ed4b6d84375c20bc585f1bbf6a437c1dce7263eaf4260ee"
+    },
+    ".claude/skills/db-interface-procedure-flow/SKILL.md": {
+      "source": "registry/skills/db-interface-procedure-flow/SKILL.md",
+      "category": "registry",
+      "checksum": "3f0970210f10514d7ed4b6d84375c20bc585f1bbf6a437c1dce7263eaf4260ee"
+    },
+    ".agents/skills/db-migration/SKILL.md": {
+      "source": "registry/skills/db-migration/SKILL.md",
+      "category": "registry",
+      "checksum": "dd0a555045f5dce1ec88c3d6c49283e3b439a5fe28219d6fb6de7363e104a21b"
+    },
+    ".claude/skills/db-migration/SKILL.md": {
+      "source": "registry/skills/db-migration/SKILL.md",
+      "category": "registry",
+      "checksum": "dd0a555045f5dce1ec88c3d6c49283e3b439a5fe28219d6fb6de7363e104a21b"
+    },
+    ".agents/skills/defensive-troubleshooting-guide/SKILL.md": {
+      "source": "registry/skills/defensive-troubleshooting-guide/SKILL.md",
+      "category": "registry",
+      "checksum": "1aef839407dceaa4086dcb4a5047695617f60d470536b44157e978e883244403"
+    },
+    ".claude/skills/defensive-troubleshooting-guide/SKILL.md": {
+      "source": "registry/skills/defensive-troubleshooting-guide/SKILL.md",
+      "category": "registry",
+      "checksum": "1aef839407dceaa4086dcb4a5047695617f60d470536b44157e978e883244403"
+    },
+    ".agents/skills/git-workflow/SKILL.md": {
+      "source": "registry/skills/git-workflow/SKILL.md",
+      "category": "registry",
+      "checksum": "0562aa0e3267e992e29fb9e88752df8f82f7a44b3d691a17eca1bbb6d1fa9ef6"
+    },
+    ".claude/skills/git-workflow/SKILL.md": {
+      "source": "registry/skills/git-workflow/SKILL.md",
+      "category": "registry",
+      "checksum": "0562aa0e3267e992e29fb9e88752df8f82f7a44b3d691a17eca1bbb6d1fa9ef6"
+    },
+    ".agents/skills/human-authority-override/SKILL.md": {
+      "source": "registry/skills/human-authority-override/SKILL.md",
+      "category": "registry",
+      "checksum": "a5935e19e084457080c58b557d94f4d9a629231e4700c5280bfcb129a2ad9fd4"
+    },
+    ".claude/skills/human-authority-override/SKILL.md": {
+      "source": "registry/skills/human-authority-override/SKILL.md",
+      "category": "registry",
+      "checksum": "a5935e19e084457080c58b557d94f4d9a629231e4700c5280bfcb129a2ad9fd4"
+    },
+    ".agents/skills/human-master-map/SKILL.md": {
+      "source": "registry/skills/human-master-map/SKILL.md",
+      "category": "registry",
+      "checksum": "459160a01a82498ed021f2d976bbc0188753abe6854d01dccca6fa01c52df4e5"
+    },
+    ".claude/skills/human-master-map/SKILL.md": {
+      "source": "registry/skills/human-master-map/SKILL.md",
+      "category": "registry",
+      "checksum": "459160a01a82498ed021f2d976bbc0188753abe6854d01dccca6fa01c52df4e5"
+    },
+    ".agents/skills/implement-feature/SKILL.md": {
+      "source": "registry/skills/implement-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "cf94639a3db9dcb15847378dfef1d0729ca4e2ce7292d6fa7418c53a4faae370"
+    },
+    ".claude/skills/implement-feature/SKILL.md": {
+      "source": "registry/skills/implement-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "cf94639a3db9dcb15847378dfef1d0729ca4e2ce7292d6fa7418c53a4faae370"
+    },
+    ".agents/skills/jpa-n-plus-one-optimization/SKILL.md": {
+      "source": "registry/skills/jpa-n-plus-one-optimization/SKILL.md",
+      "category": "registry",
+      "checksum": "4fc25029deb6f9f89118ea67e24bf3d8419a3a7ed208e17e105da123cf3d3e7c"
+    },
+    ".claude/skills/jpa-n-plus-one-optimization/SKILL.md": {
+      "source": "registry/skills/jpa-n-plus-one-optimization/SKILL.md",
+      "category": "registry",
+      "checksum": "4fc25029deb6f9f89118ea67e24bf3d8419a3a7ed208e17e105da123cf3d3e7c"
+    },
+    ".agents/skills/knowledge-graph/SKILL.md": {
+      "source": "registry/skills/knowledge-graph/SKILL.md",
+      "category": "registry",
+      "checksum": "89bd6c02def92a0ba68f8ed333dad300e7c674fe6ecbd9555facb54ab98c260b"
+    },
+    ".claude/skills/knowledge-graph/SKILL.md": {
+      "source": "registry/skills/knowledge-graph/SKILL.md",
+      "category": "registry",
+      "checksum": "89bd6c02def92a0ba68f8ed333dad300e7c674fe6ecbd9555facb54ab98c260b"
+    },
+    ".agents/skills/multi-language-error-handling/SKILL.md": {
+      "source": "registry/skills/multi-language-error-handling/SKILL.md",
+      "category": "registry",
+      "checksum": "181cc99c125eec8748e4135f5bbc82d87a62d141535f914f48cd78ef518e6558"
+    },
+    ".claude/skills/multi-language-error-handling/SKILL.md": {
+      "source": "registry/skills/multi-language-error-handling/SKILL.md",
+      "category": "registry",
+      "checksum": "181cc99c125eec8748e4135f5bbc82d87a62d141535f914f48cd78ef518e6558"
+    },
+    ".agents/skills/post-code-verification/SKILL.md": {
+      "source": "registry/skills/post-code-verification/SKILL.md",
+      "category": "registry",
+      "checksum": "71cbeaf18cb50108e278864951daf7bc56fce83967803a3ccfa9e20c9cd194b1"
+    },
+    ".claude/skills/post-code-verification/SKILL.md": {
+      "source": "registry/skills/post-code-verification/SKILL.md",
+      "category": "registry",
+      "checksum": "71cbeaf18cb50108e278864951daf7bc56fce83967803a3ccfa9e20c9cd194b1"
+    },
+    ".agents/skills/project-doctor/SKILL.md": {
+      "source": "registry/skills/project-doctor/SKILL.md",
+      "category": "registry",
+      "checksum": "279b99c27fb99a4bc804a53ae2e469f83781e6b77ec044a8fa52df31db7b3948"
+    },
+    ".claude/skills/project-doctor/SKILL.md": {
+      "source": "registry/skills/project-doctor/SKILL.md",
+      "category": "registry",
+      "checksum": "279b99c27fb99a4bc804a53ae2e469f83781e6b77ec044a8fa52df31db7b3948"
+    },
+    ".agents/skills/project-governance-dashboard/SKILL.md": {
+      "source": "registry/skills/project-governance-dashboard/SKILL.md",
+      "category": "registry",
+      "checksum": "b132728ea1c0d3f9f1d1e56b4d7ef38e492695f43ec791d02d9145b769ac8620"
+    },
+    ".claude/skills/project-governance-dashboard/SKILL.md": {
+      "source": "registry/skills/project-governance-dashboard/SKILL.md",
+      "category": "registry",
+      "checksum": "b132728ea1c0d3f9f1d1e56b4d7ef38e492695f43ec791d02d9145b769ac8620"
+    },
+    ".agents/skills/redis-cache-patterns/SKILL.md": {
+      "source": "registry/skills/redis-cache-patterns/SKILL.md",
+      "category": "registry",
+      "checksum": "6191017d7941b5c14434ac1d8a2cd01e1de61b9285008d226c66ef414b822a1d"
+    },
+    ".claude/skills/redis-cache-patterns/SKILL.md": {
+      "source": "registry/skills/redis-cache-patterns/SKILL.md",
+      "category": "registry",
+      "checksum": "6191017d7941b5c14434ac1d8a2cd01e1de61b9285008d226c66ef414b822a1d"
+    },
+    ".agents/skills/release-notes/SKILL.md": {
+      "source": "registry/skills/release-notes/SKILL.md",
+      "category": "registry",
+      "checksum": "fe2eef91231c07b843b109f36e87a523a584d21a11013dd637bfbd4cc8b65278"
+    },
+    ".claude/skills/release-notes/SKILL.md": {
+      "source": "registry/skills/release-notes/SKILL.md",
+      "category": "registry",
+      "checksum": "fe2eef91231c07b843b109f36e87a523a584d21a11013dd637bfbd4cc8b65278"
+    },
+    ".agents/skills/safe-git-rebase/SKILL.md": {
+      "source": "registry/skills/safe-git-rebase/SKILL.md",
+      "category": "registry",
+      "checksum": "582f26f5c79cb9fa3a7e32ede524d4899db3b4c7d8be67823a1934e99943cac9"
+    },
+    ".claude/skills/safe-git-rebase/SKILL.md": {
+      "source": "registry/skills/safe-git-rebase/SKILL.md",
+      "category": "registry",
+      "checksum": "582f26f5c79cb9fa3a7e32ede524d4899db3b4c7d8be67823a1934e99943cac9"
+    },
+    ".agents/skills/security-secret-scanner/SKILL.md": {
+      "source": "registry/skills/security-secret-scanner/SKILL.md",
+      "category": "registry",
+      "checksum": "f25b07d920adc3cb538c9479f44b1d2e7a29a12c6b094f93f343d033aa3e49f6"
+    },
+    ".claude/skills/security-secret-scanner/SKILL.md": {
+      "source": "registry/skills/security-secret-scanner/SKILL.md",
+      "category": "registry",
+      "checksum": "f25b07d920adc3cb538c9479f44b1d2e7a29a12c6b094f93f343d033aa3e49f6"
+    },
+    ".agents/skills/spec-writer/SKILL.md": {
+      "source": "registry/skills/spec-writer/SKILL.md",
+      "category": "registry",
+      "checksum": "68be4b7a269e88ee77ba9439ccbe752584caa363ab0efc454246a0a5788cf5d3"
+    },
+    ".claude/skills/spec-writer/SKILL.md": {
+      "source": "registry/skills/spec-writer/SKILL.md",
+      "category": "registry",
+      "checksum": "68be4b7a269e88ee77ba9439ccbe752584caa363ab0efc454246a0a5788cf5d3"
+    },
+    ".agents/skills/speckit-analyze/SKILL.md": {
+      "source": "registry/skills/speckit-analyze/SKILL.md",
+      "category": "registry",
+      "checksum": "c45b9239e9f73b0b30eb95110c20b9a3148f1b3e2ba08d5c3c0e4a2c49128a81"
+    },
+    ".claude/skills/speckit-analyze/SKILL.md": {
+      "source": "registry/skills/speckit-analyze/SKILL.md",
+      "category": "registry",
+      "checksum": "c45b9239e9f73b0b30eb95110c20b9a3148f1b3e2ba08d5c3c0e4a2c49128a81"
+    },
+    ".agents/skills/speckit-audit/SKILL.md": {
+      "source": "registry/skills/speckit-audit/SKILL.md",
+      "category": "registry",
+      "checksum": "a02f8da71224d32b20cdc441c5f346380949f8af99caf23a39ba43ead6eb463c"
+    },
+    ".claude/skills/speckit-audit/SKILL.md": {
+      "source": "registry/skills/speckit-audit/SKILL.md",
+      "category": "registry",
+      "checksum": "a02f8da71224d32b20cdc441c5f346380949f8af99caf23a39ba43ead6eb463c"
+    },
+    ".agents/skills/speckit-checklist/SKILL.md": {
+      "source": "registry/skills/speckit-checklist/SKILL.md",
+      "category": "registry",
+      "checksum": "6580713b6420d6940796fcc0c829b9d978801e7ad2abf7320a11670cc7019e0f"
+    },
+    ".claude/skills/speckit-checklist/SKILL.md": {
+      "source": "registry/skills/speckit-checklist/SKILL.md",
+      "category": "registry",
+      "checksum": "6580713b6420d6940796fcc0c829b9d978801e7ad2abf7320a11670cc7019e0f"
+    },
+    ".agents/skills/speckit-clarify/SKILL.md": {
+      "source": "registry/skills/speckit-clarify/SKILL.md",
+      "category": "registry",
+      "checksum": "d61731a87d7a28651f371b6b5361ba17eb6500d49eb21eea3980ccd36a28a038"
+    },
+    ".claude/skills/speckit-clarify/SKILL.md": {
+      "source": "registry/skills/speckit-clarify/SKILL.md",
+      "category": "registry",
+      "checksum": "d61731a87d7a28651f371b6b5361ba17eb6500d49eb21eea3980ccd36a28a038"
+    },
+    ".agents/skills/speckit-constitution/SKILL.md": {
+      "source": "registry/skills/speckit-constitution/SKILL.md",
+      "category": "registry",
+      "checksum": "0d14b562ae90d5d93543da512948fdf9983e784d159e6d7afb4431d83bb42252"
+    },
+    ".claude/skills/speckit-constitution/SKILL.md": {
+      "source": "registry/skills/speckit-constitution/SKILL.md",
+      "category": "registry",
+      "checksum": "0d14b562ae90d5d93543da512948fdf9983e784d159e6d7afb4431d83bb42252"
+    },
+    ".agents/skills/speckit-help/SKILL.md": {
+      "source": "registry/skills/speckit-help/SKILL.md",
+      "category": "registry",
+      "checksum": "46b5dd230f9f40c1af51a6922a631fbaf128fe7726bcf88221cc9618c84c755b"
+    },
+    ".claude/skills/speckit-help/SKILL.md": {
+      "source": "registry/skills/speckit-help/SKILL.md",
+      "category": "registry",
+      "checksum": "46b5dd230f9f40c1af51a6922a631fbaf128fe7726bcf88221cc9618c84c755b"
+    },
+    ".agents/skills/speckit-implement/SKILL.md": {
+      "source": "registry/skills/speckit-implement/SKILL.md",
+      "category": "registry",
+      "checksum": "e7e99560dede367b856561274f55b243de44026789e45fe776c8bb869664243a"
+    },
+    ".claude/skills/speckit-implement/SKILL.md": {
+      "source": "registry/skills/speckit-implement/SKILL.md",
+      "category": "registry",
+      "checksum": "e7e99560dede367b856561274f55b243de44026789e45fe776c8bb869664243a"
+    },
+    ".agents/skills/speckit-ingest/SKILL.md": {
+      "source": "registry/skills/speckit-ingest/SKILL.md",
+      "category": "registry",
+      "checksum": "6b92099f6a522828deb60deff54cc55fdf783503beb41aac11f6e1e976c75cac"
+    },
+    ".claude/skills/speckit-ingest/SKILL.md": {
+      "source": "registry/skills/speckit-ingest/SKILL.md",
+      "category": "registry",
+      "checksum": "6b92099f6a522828deb60deff54cc55fdf783503beb41aac11f6e1e976c75cac"
+    },
+    ".agents/skills/speckit-plan/SKILL.md": {
+      "source": "registry/skills/speckit-plan/SKILL.md",
+      "category": "registry",
+      "checksum": "8e6f37ddf03beb534c647af39889b4bcb53bb1627d8b3a0d7ae4a389c7d76e11"
+    },
+    ".claude/skills/speckit-plan/SKILL.md": {
+      "source": "registry/skills/speckit-plan/SKILL.md",
+      "category": "registry",
+      "checksum": "8e6f37ddf03beb534c647af39889b4bcb53bb1627d8b3a0d7ae4a389c7d76e11"
+    },
+    ".agents/skills/speckit-specify/SKILL.md": {
+      "source": "registry/skills/speckit-specify/SKILL.md",
+      "category": "registry",
+      "checksum": "d4481abf116bd8b5c1c53c398371c0878f3e9912bb669b1521df2ae5eb24b994"
+    },
+    ".claude/skills/speckit-specify/SKILL.md": {
+      "source": "registry/skills/speckit-specify/SKILL.md",
+      "category": "registry",
+      "checksum": "d4481abf116bd8b5c1c53c398371c0878f3e9912bb669b1521df2ae5eb24b994"
+    },
+    ".agents/skills/speckit-tasks/SKILL.md": {
+      "source": "registry/skills/speckit-tasks/SKILL.md",
+      "category": "registry",
+      "checksum": "c0740993a49ae7f218932ef25aabeeb3b20a6403b3aecf3efed11921ffbf025f"
+    },
+    ".claude/skills/speckit-tasks/SKILL.md": {
+      "source": "registry/skills/speckit-tasks/SKILL.md",
+      "category": "registry",
+      "checksum": "c0740993a49ae7f218932ef25aabeeb3b20a6403b3aecf3efed11921ffbf025f"
+    },
+    ".agents/skills/spring-middleware-pipeline/SKILL.md": {
+      "source": "registry/skills/spring-middleware-pipeline/SKILL.md",
+      "category": "registry",
+      "checksum": "5b2df2c997f165d80af46285931ca8c5fdc83e14f8aa627ce4f0d8e42c85ce82"
+    },
+    ".claude/skills/spring-middleware-pipeline/SKILL.md": {
+      "source": "registry/skills/spring-middleware-pipeline/SKILL.md",
+      "category": "registry",
+      "checksum": "5b2df2c997f165d80af46285931ca8c5fdc83e14f8aa627ce4f0d8e42c85ce82"
+    },
+    ".agents/skills/sql-repository-pattern/SKILL.md": {
+      "source": "registry/skills/sql-repository-pattern/SKILL.md",
+      "category": "registry",
+      "checksum": "369ce8e66ec017f53ebfbd649a7793b936b2dc8c992c0f9b7716d023f5a50e7b"
+    },
+    ".claude/skills/sql-repository-pattern/SKILL.md": {
+      "source": "registry/skills/sql-repository-pattern/SKILL.md",
+      "category": "registry",
+      "checksum": "369ce8e66ec017f53ebfbd649a7793b936b2dc8c992c0f9b7716d023f5a50e7b"
+    },
+    ".agents/skills/system-dna-manager/SKILL.md": {
+      "source": "registry/skills/system-dna-manager/SKILL.md",
+      "category": "registry",
+      "checksum": "16a3bf5cdebed63c3916d34ccab1943e368cdadba3e0ce81726e1bb69cc2d10e"
+    },
+    ".claude/skills/system-dna-manager/SKILL.md": {
+      "source": "registry/skills/system-dna-manager/SKILL.md",
+      "category": "registry",
+      "checksum": "16a3bf5cdebed63c3916d34ccab1943e368cdadba3e0ce81726e1bb69cc2d10e"
+    },
+    ".agents/skills/test-feature/SKILL.md": {
+      "source": "registry/skills/test-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "bee1a3a8c6af2094a0e8cf4499278b7669a2c3a7d1117bdcc156447e6ea1106d"
+    },
+    ".claude/skills/test-feature/SKILL.md": {
+      "source": "registry/skills/test-feature/SKILL.md",
+      "category": "registry",
+      "checksum": "bee1a3a8c6af2094a0e8cf4499278b7669a2c3a7d1117bdcc156447e6ea1106d"
+    }
+  }
+}

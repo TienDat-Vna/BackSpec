@@ -4,7 +4,7 @@ description: Hướng dẫn quản lý từ điển đa ngôn ngữ (VI/EN) lưu
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/multi-language-error-handling/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/multi-language-error-handling/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/multi-language-error-handling/SKILL.md — DO NOT EDIT DIRECTLY -->
 

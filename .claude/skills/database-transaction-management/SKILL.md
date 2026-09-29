@@ -4,7 +4,7 @@ description: Quy chuẩn quản lý Giao dịch cơ sở dữ liệu (@Transacti
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/database-transaction-management/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/database-transaction-management/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/database-transaction-management/SKILL.md — DO NOT EDIT DIRECTLY -->
 

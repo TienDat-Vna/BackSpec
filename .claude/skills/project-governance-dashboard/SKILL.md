@@ -4,7 +4,7 @@ description: Bảng điều khiển quản trị toàn diện dành cho Tech Lea
 allowed-tools: [Read, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 04-management/project-governance-dashboard/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/project-governance-dashboard/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/04-management/project-governance-dashboard/SKILL.md — DO NOT EDIT DIRECTLY -->
 

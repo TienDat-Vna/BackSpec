@@ -4,7 +4,7 @@ description: Quy trình 4 bước kiểm định chất lượng sau khi viết 
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/post-code-verification/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/post-code-verification/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/post-code-verification/SKILL.md — DO NOT EDIT DIRECTLY -->
 

@@ -3,7 +3,7 @@ name: speckit-clarify
 description: Phân tích và làm rõ các điểm mơ hồ trong yêu cầu nghiệp vụ (CLARIFICATIONS.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-clarify/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-clarify/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.clarify — Requirement Clarification Guide
 

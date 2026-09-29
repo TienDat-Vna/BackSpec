@@ -4,7 +4,7 @@ description: Quy trình 5 bước thiết kế và triển khai REST API chuẩn
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/backend-api-design-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/backend-api-design-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/backend-api-design-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
 

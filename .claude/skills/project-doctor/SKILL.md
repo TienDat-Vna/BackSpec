@@ -4,7 +4,7 @@ description: Công cụ chẩn đoán toàn diện sức khỏe dự án Backend
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 04-management/project-doctor/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/project-doctor/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/04-management/project-doctor/SKILL.md — DO NOT EDIT DIRECTLY -->
 

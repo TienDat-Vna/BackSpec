@@ -4,7 +4,7 @@ description: Mô hình thiết kế và tối ưu bộ nhớ đệm Redis Cache 
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/redis-cache-patterns/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/redis-cache-patterns/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/redis-cache-patterns/SKILL.md — DO NOT EDIT DIRECTLY -->
 

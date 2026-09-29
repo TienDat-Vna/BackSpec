@@ -17,6 +17,8 @@
     "check": "node bin/backspec.js check",
     "doctor": "node bin/backspec.js doctor",
     "spec": "node bin/backspec.js spec",
+    "audit": "node bin/backspec.js audit",
+    "ingest": "node bin/backspec.js ingest",
     "plan": "node bin/backspec.js plan",
     "tasks": "node bin/backspec.js tasks",
     "clarify": "node bin/backspec.js clarify",
@@ -35,7 +37,7 @@
     "adopt": "node bin/backspec.js adopt",
     "validate": "node bin/backspec.js validate",
     "override": "node bin/backspec.js override",
-    "test": "node 04-management/tools/test-skill-system.js",
+    "test": "node tests/test-skill-system.js",
     "prepare": "husky || true"
   },
   "keywords": [
@@ -56,6 +58,8 @@
   ],
   "dependencies": {
     "commander": "^15.0.0",
+    "docx": "^9.8.1",
+    "mammoth": "^1.13.0",
     "picocolors": "^1.1.1",
     "prompts": "^2.4.2"
   },

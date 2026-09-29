@@ -4,7 +4,7 @@ description: Thực thi từng task trong TASKS.md theo đúng ranh giới kiế
 allowed-tools: [Read, Edit, Write, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 01-spec-management/implement-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/implement-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/01-spec-management/implement-feature/SKILL.md — DO NOT EDIT DIRECTLY -->
 

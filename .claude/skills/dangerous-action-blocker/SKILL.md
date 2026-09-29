@@ -4,7 +4,7 @@ description: Bộ lọc và chặn đứng mọi câu lệnh nguy hiểm, thao t
 allowed-tools: [Read, Grep, Glob, Bash]
 ---
 
-<!-- GENERATED FROM 03-hooks/dangerous-action-blocker/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/dangerous-action-blocker/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/03-hooks/dangerous-action-blocker/SKILL.md — DO NOT EDIT DIRECTLY -->
 

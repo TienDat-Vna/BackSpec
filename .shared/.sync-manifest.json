@@ -1,9 +1,0 @@
-{
-  "02-codestyle/rules/api-design.md": "d6bb6e085dba504a2748793d0a28b4ae81a6ce6e04f9e46eba2439bcaf48c4ef",
-  "02-codestyle/rules/async-integration.md": "9150888b4feed956aee7ec881c83bf1e30c6a158ad9282f10621a4e7d8e1f25e",
-  "02-codestyle/rules/backend-feature.md": "466b60569f367e8809d8acd4976046d655f73cd6d58208f32a413a407589fe01",
-  "02-codestyle/rules/db-migration.md": "5e730f4b3742563345220f120ff5dd6512fb170c4e6ca620a441896123714077",
-  "02-codestyle/rules/microservice-resilience.md": "9d087d1f0bf893cd0a4aa5806200b60d0aa9e7459a3903db02a3cbeda5fe38ea",
-  "02-codestyle/rules/security.md": "79040227585bc939451c03ccd08126c7c11caf288bbd4187dc29c6a58d0e7b01",
-  "02-codestyle/rules/testing.md": "a6c2342ce62038d033d8978424904188ff57682933f12a52f214a469ed76dc46"
-}

@@ -4,7 +4,7 @@ description: Tạo file migration cơ sở dữ liệu mới (Flyway / Liquibase
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/db-migration/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/db-migration/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/db-migration/SKILL.md — DO NOT EDIT DIRECTLY -->
 

@@ -4,7 +4,7 @@ description: Hướng dẫn tích hợp và điều phối chuỗi Stored Proced
 allowed-tools: [Read, Edit, Write, Grep, Glob]
 ---
 
-<!-- GENERATED FROM 02-codestyle/db-interface-procedure-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/db-interface-procedure-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 <!-- GENERATED FROM .shared/skills/02-codestyle/db-interface-procedure-flow/SKILL.md — DO NOT EDIT DIRECTLY -->
 

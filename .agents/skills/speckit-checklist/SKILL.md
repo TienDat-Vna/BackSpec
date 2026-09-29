@@ -3,7 +3,7 @@ name: speckit-checklist
 description: Sinh danh mục kiểm định chất lượng (CHECKLIST.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-checklist/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-checklist/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.checklist — Quality Assurance Checklist Generator
 

@@ -3,7 +3,7 @@ name: speckit-constitution
 description: Thiết lập và bảo vệ Hiến pháp dự án (CONSTITUTION.md) theo chuẩn GitHub Spec-Kit & BackSpec SDD
 ---
 
-<!-- GENERATED FROM 01-spec-management/speckit-constitution/SKILL.md — DO NOT EDIT DIRECTLY -->
+<!-- GENERATED FROM registry/skills/speckit-constitution/SKILL.md — DO NOT EDIT DIRECTLY -->
 
 # /speckit.constitution — Constitution Governance
 
