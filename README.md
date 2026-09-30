@@ -15,7 +15,7 @@
   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝
 
   Enterprise Spec-Driven Development (SDD) for Backend Microservices
-     Version 2.0.0 | Multi-Engine Governance (Antigravity, Claude, Copilot, Cursor)
+     Version 1.0.0 | Multi-Engine Governance (Antigravity, Claude, Copilot, Cursor)
 ```
 
 ---
@@ -55,6 +55,9 @@ npx specify implement create-order
 
 # 7. Chẩn đoán toàn diện sức khỏe hệ thống
 npx specify check
+
+# 8. Chặn vi phạm chất lượng code của agent trước khi merge
+npx specify quality . --strict
 ```
 
 ### Cài đặt Global CLI:
@@ -97,6 +100,7 @@ backspec list skills
 | `specify status` | `specify dashboard` | Mở bảng điều khiển quản trị SDD Dashboard trực quan trên Terminal. |
 | `specify adopt [dir]` | `backspec adopt` | Tiếp nhận và ghép khung SDD vào microservice hiện hữu không làm hỏng code. |
 | `specify validate` | `backspec validate` | Chạy 4 tầng kiểm định tính toàn vẹn hệ thống trước khi merge code. |
+| `specify quality [path] [--strict] [--format json\|sarif]` | `backspec scan` | Quét code offline, che dữ liệu secret, trả exit code theo severity và xuất báo cáo CI. |
 | `specify override <reason>` | `backspec override` | Quyền tối thượng của con người (Human Authority Override) có ghi log audit. |
 
 ---

@@ -3,6 +3,21 @@
   "version": "1.0.0",
   "description": "BackSpec & Specify — Enterprise Spec-Driven Development (SDD) & Multi-Agent Governance Tool for Backend Microservices",
   "main": "lib/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "registry/",
+    "README.md",
+    "LICENSE",
+    "SECURITY.md",
+    "CHANGELOG.md",
+    ".agentignore",
+    ".mcp.json"
+  ],
   "bin": {
     "backspec": "./bin/backspec.js",
     "specify": "./bin/backspec.js",
@@ -37,7 +52,8 @@
     "adopt": "node bin/backspec.js adopt",
     "validate": "node bin/backspec.js validate",
     "override": "node bin/backspec.js override",
-    "test": "node tests/test-skill-system.js",
+    "quality": "node bin/backspec.js quality . --strict",
+    "test": "node tests/test-skill-system.js && node tests/test-quality-gate.js",
     "prepare": "husky || true"
   },
   "keywords": [

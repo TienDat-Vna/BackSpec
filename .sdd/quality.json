@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "maxFileLines": 300,
+  "failOn": [
+    "critical",
+    "high"
+  ],
+  "exclude": []
+}

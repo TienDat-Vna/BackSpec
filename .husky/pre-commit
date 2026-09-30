@@ -1,3 +1,5 @@
 #!/usr/bin/env sh
 # Husky pre-commit hook: Lớp kiểm tra nhanh định dạng và lint trước khi commit
 npx lint-staged
+node bin/backspec.js quality . --strict
+node bin/backspec.js sync --check
